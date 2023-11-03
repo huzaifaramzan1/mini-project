@@ -229,6 +229,10 @@ p {
 	font-size: large;
 	margin-top: 20%;
 	transition-duration: 0.4s;
+	align-items: inherit;
+
+
+
 	
   }
   .button-team-1{
@@ -245,6 +249,7 @@ p {
 	font-size: large;
 	margin-top: 20%;
 	transition-duration: 0.4s;
+	align-items: inherit;
   }
   
   .button-team:hover, .button-team-1:hover{
