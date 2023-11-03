@@ -3,7 +3,9 @@
 
 
 
-
+body{
+	background-color: #485563;
+}
 * {
 	padding: 0;
 	margin: 0;
@@ -70,7 +72,8 @@ p {
 .brand h1 {
 	font-size: 3rem;
 	text-transform: uppercase;
-	color: white;
+	color: rgb(108, 6, 204);
+	font-family: 'Montserrat';
 }
 .brand h1 span {
 	color: rgb(255, 255, 255);
@@ -355,6 +358,9 @@ p {
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
+	box-shadow: 5px 20px 50px #000;
+	cursor: pointer;
+	
 	
 }
 
