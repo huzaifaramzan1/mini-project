@@ -74,7 +74,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background: linear-gradient(to bottom, #2f9999, #4b0b48, #08ecec);
+  background: linear-gradient(to bottom, #252b2b, #4b0b48, #034242);
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -124,7 +124,7 @@ About Us Style
 }
 
 .about-us {
-  background-image: url(/img/wave\ \(3\).svg);
+  background-image: url(/img/wave\ \(4\).svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
