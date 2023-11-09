@@ -260,7 +260,7 @@ p {
   }
 
 #hero {
-	background: linear-gradient(to top, #2c2c2cba, #b54ef1cc), url(/img/10371671_4461986.jpg) no-repeat top center;
+	background: linear-gradient(to top, #001950ba, #000000cc), url(/img/10371671_4461986.jpg) no-repeat top center;
 	background-size:cover;
 	background-position: top center;
 	
