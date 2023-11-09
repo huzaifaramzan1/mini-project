@@ -49,7 +49,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: crimson;
+	color: rgb(0, 255, 242);
 }
 
 .cta {
@@ -72,7 +72,7 @@ p {
 .brand h1 {
 	font-size: 3rem;
 	text-transform: uppercase;
-	color: rgb(108, 6, 204);
+	color: rgb(255, 255, 255);
 	font-family: 'Montserrat';
 }
 .brand h1 span {
@@ -209,19 +209,18 @@ p {
 /* Hero Section */
 .invenio{
 	font-family: 'Satisfy', cursive;
-	color: aqua;
 	font-size: xx-large;
 }
 .invenio-p{
 	font-size: 350%;
-	color: white;
+	color: rgb(255, 255, 255);
 	font-family: 'Nunito Sans', sans-serif;
 
 }
 .button-team{
 	background-color: none; /* Green */
 	border: 1px solid white;
-	color: rgb(0, 255, 221);
+	color: rgb(255, 0, 242);
 	padding: 10px 10px;
 	text-align: center;
 	text-decoration:solid;
@@ -261,10 +260,10 @@ p {
   }
 
 #hero {
-	background-image: url(./img/Landing\ page\ BG.jpg);
-	background-size: cover;
+	background: linear-gradient(to top, #2c2c2cba, #b54ef1cc), url(/img/10371671_4461986.jpg) no-repeat top center;
+	background-size:cover;
 	background-position: top center;
-	position: relative;
+	
 	z-index: 1;
 }
 #hero::after {
@@ -309,7 +308,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: rgb(0, 217, 255);
+	background-color: rgb(255, 0, 0);
 
 }
 #hero h1:nth-child(1) span {
@@ -630,7 +629,7 @@ p {
 }
 @keyframes text_reveal_name {
 	100% {
-		color: rgb(0, 217, 255);
+		color: rgb(0, 255, 85);
 		font-weight: 500;
 	}
 }
