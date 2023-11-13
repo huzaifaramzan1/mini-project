@@ -3,7 +3,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to bottom, #c56887, #3ca6b9, #663a21);
+    background: linear-gradient(to bottom, #000000, #3ca6b9, #00498d);
+    overflow: hidden;
    
   
 }

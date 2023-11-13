@@ -124,7 +124,7 @@ About Us Style
 }
 
 .about-us {
-  background-image: url(/img/wave\ \(4\).svg);
+  background-image: url(/img/wave.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -239,16 +239,15 @@ Services Style
 }
 
 .our-services .first-bar .filled-bar {
-  width: 99%;
+  width: 22%;
 }
 
 .our-services .second-bar .filled-bar {
-  width: 98%;
+  width: 13%;
 }
 
 .our-services .third-bar .filled-bar {
-  width: 94%;
+  width: 40%;
 }
 
 
-/
