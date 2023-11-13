@@ -72,7 +72,7 @@ header, nav, section, article, aside, footer, hgroup {
 }
 
 html, body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   background: linear-gradient(to bottom, #252b2b, #4b0b48, #034242);
   -ms-text-size-adjust: 100%;
