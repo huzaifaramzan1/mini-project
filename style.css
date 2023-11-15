@@ -68,7 +68,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: rgb(255, 72, 0);
+	background-color: rgb(0, 146, 204);
 }
 .brand h1 {
 	font-size: 3rem;
@@ -601,17 +601,8 @@ p {
 }
 /* End Footer */
 
-/* Keyframes */
-@keyframes hamburger_puls {
-	0% {
-		opacity: 1;
-		transform: scale(1);
-	}
-	100% {
-		opacity: 0;
-		transform: scale(1.4);
-	}
-}
+
+
 @keyframes text_reveal_box {
 	50% {
 		width: 100%;
@@ -693,7 +684,7 @@ p {
 		top: 34px;
 		height: 98%;
 		width: 98%;
-		border: 10px solid crimson;
+		border: 10px solid rgb(219, 75, 255);
 	}
 	#about .col-right {
 		text-align: left;
