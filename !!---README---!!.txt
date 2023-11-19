@@ -1,6 +1,6 @@
 This mini-project has been submitted by
 . Muhammad Huzaifa (F2023-521)
-. Abdullah (F2023- )
+. Abdullah (F2023-034)
 . Mateen (F2023-380)
 
 
@@ -19,9 +19,19 @@ BLACKBOX AI (https://www.blackbox.ai/)
 VIDEO SOURCE: (https://www.youtube.com/)
 
 **CONSENT, PERMISSION OF USAGE**
-All the images used in this project have been either used by consent, or were publically avaialable to be used.
+All the images used in this project have been either used by consent, or were publically available to be used.
 Animations used are available for free on Lottiefiles.com.
 
 **ABOUT CONTROLPULSE*
 
 Control PULSE is a comprehensive website dedicated to providing valuable information about drugs, their prevention, and related topics. The platform serves as an educational resource for individuals seeking accurate and up-to-date information on various substances, their effects, and potential preventive measures. The website covers a wide range of drugs, illicit substances, offering detailed insights into their usage, risks, and impact on physical and mental health. Control PULSE places a strong emphasis on prevention strategies, offering guidance on how individuals can make informed choices to avoid the negative consequences associated with substance abuse. The website may feature articles, videos, and interactive content designed to engage and educate users on the importance of making healthy lifestyle choices. Additionally, Control PULSE may include resources for seeking help and support for those struggling with substance abuse issues, promoting a compassionate and understanding approach to addiction. With a user-friendly interface, the website aims to be a reliable and accessible source of information, contributing to public awareness and well-informed decision-making regarding drug use.
+
+
+**INDEX(MAIN PAGE)**
+The index of this website contains a relevant and beautiful Hero page, with our main slogan. This website features a beautiful parallax scrolling effect, achieved totally through CSS styling. The next section consists of four DIVs with beautiful animations.
+The whole design of this website was carefully thought upon due to the condition of have 15 different pages, hence the design is heavily inspired from many websites. 
+
+All other webpages are extremely simple, most of them are "copy-paste" with changes in theme, images and content. 
+
+It was made whole-heartedly by our team, hence we hope that this project is liked by our professors and teachers.
+
