@@ -33,7 +33,7 @@ img {
 	object-fit: cover;
 }
 p {
-	color: black;
+	color: rgb(255, 255, 255);
 	font-size: 1.4rem;
 	margin-top: 5px;
 	line-height: 2.5rem;
@@ -43,7 +43,7 @@ p {
 .section-title {
 	font-size: 4rem;
 	font-weight: 300;
-	color: black;
+	color: rgb(255, 255, 255);
 	margin-bottom: 10px;
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
@@ -261,9 +261,13 @@ p {
   }
 
 #hero {
-	background: linear-gradient(to top, #001950ba, #000000cc), url(/img/10371671_4461986.jpg) no-repeat top center;
+	background: linear-gradient(to top, #001950ba, #000000cc), url(/img/10371671_4461986.jpg);
 	background-size:cover;
-	background-position: top center;
+	background-repeat: no-repeat;
+	height: 100%;
+	display: table;
+	background-attachment: fixed;
+	width: 100%;
 	
 	z-index: 1;
 }
