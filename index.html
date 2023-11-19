@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="style.css">
   <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
   <title>ControlPulse</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
  
 </head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,6 +18,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <style>
+  /*Styling on this page is of css preloader*/
   body {
     margin: 0;
     padding: 0;
@@ -29,7 +31,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgb(116, 116, 116);
+    background-color: rgb(49, 49, 49);
     z-index: 9999;
 }
 
@@ -48,6 +50,7 @@
     animation: spin 1s linear infinite;
 }
 
+
 @keyframes spin {
     0% {
         transform: rotate(0deg);
@@ -56,6 +59,8 @@
         transform: rotate(360deg);
     }
 }
+/*preloader styling end*/
+
 </style>
 
 <body>
@@ -266,28 +271,13 @@
 
   <!-- Footer -->
   <footer class="footer">
-    <div class="waves">
-      <div class="wave" id="wave1"></div>
-      <div class="wave" id="wave2"></div>
-      <div class="wave" id="wave3"></div>
-      <div class="wave" id="wave4"></div>
+    <div class="footer-icons">
+        <a href="#hero"><i class="fab fa-facebook-f" style="margin: 50px; "></i></a>
+        <a href="#hero"><i class="fab fa-instagram" style="margin: 50px;"></i></a>
+        <a href="https://huzaifaramzan1.github.io/" target="_blank"><i class="fab fa-briefcase" style="margin: 50px;"></i></a>
+        <p style="font-size: 15px; text-align: center;">© Copyright 2023 Huzaifa Ramzan</p>
     </div>
-    <ul class="social-icon">
-      <li class="social-icon__item"><a class="social-icon__link" href="#">
-          <ion-icon name="logo-facebook"></ion-icon>
-        </a></li>
-      <li class="social-icon__item"><a class="social-icon__link" href="#">
-          <ion-icon name="logo-twitter"></ion-icon>
-        </a></li>
-      <li class="social-icon__item"><a class="social-icon__link" href="#">
-          <ion-icon name="logo-linkedin"></ion-icon>
-        </a></li>
-      <li class="social-icon__item"><a class="social-icon__link" href="#">
-          <ion-icon name="logo-instagram"></ion-icon>
-        </a></li>
-    </ul>
-    <p>&copy;2021 Nadine Coelho | All Rights Reserved</p>
-  </footer>
+</footer>
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
   <div id="preloader">
     <div class="spinner"></div>
