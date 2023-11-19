@@ -343,9 +343,16 @@ p {
 #services .services {
 	flex-direction: column;
 	text-align: center;
-	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
+	background-image: url(https://th.bing.com/th/id/R.8c052e02ee2bd0fde47868668119c55c?rik=kb%2bgNBGQwZT1Dw&pid=ImgRaw&r=0);
+	height: 100%;
+	width: 100%;
+	background-attachment: fixed;
+	display: table;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 #services .service-top {
 	max-width: 500px;
@@ -417,6 +424,7 @@ p {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 100px 0;
+	
 }
 #projects .projects-header h1 {
 	margin-bottom: 50px;
