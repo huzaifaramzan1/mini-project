@@ -1,3 +1,5 @@
+This website is hosted on internet as (https://controlpulse.netlify.app/)
+
 This mini-project has been submitted by
 . Muhammad Huzaifa (F2023-521)
 . Abdullah (F2023-034)
