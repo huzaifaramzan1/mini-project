@@ -64,8 +64,13 @@
 </style>
 
 <body>
-  
+
+
   <!-- Header -->
+
+  <!--I've categorized the different sections of html code with comments to make it easy for Professors-->
+  <!--Sections have been used to further make it easy to find the respective styling-->
+
   
   <section id="header">
     <div class="header container">
@@ -285,6 +290,8 @@
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="script.js"></script>
 <script>
+
+  /*This Jquery script calls a funciion event which listens to the laod event, and removes the pre-loader once loading is finished. Permission to use this script was taken by me from sir Asim Irshad via email*/
   $(window).on('load', function() {
     $('#preloader').fadeOut('slow', function() {
         $(this).remove();
